@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFF</color>
+    <color name="light_night_color">#FFFFFF</color>
+    <color name="abu50_light_night">#FFFFFF</color>
+    <color name="abuC4_light_night">#FFFFFF</color>
+    <color name="biruC8_light_night">#C8D1DA</color>
+    <color name="abuF7_light_night">#000000</color>
+    <color name="abu50">#50555B</color>
+    <color name="transparent">#00000000</color>
+    <color name="abuF7">#F7F5F2</color>
+    <color name="biruC8">#C8D1DA</color>
+    <color name="biru59">#597590</color>
+    <color name="tabLayoutSelectedColor">#B4B7BC</color>
+</resources>

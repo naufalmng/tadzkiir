@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginTop="16dp"
+    android:clickable="true"
+    android:focusable="true"
+    android:backgroundTint="@color/abuF7_light_night"
+    android:background="?android:attr/selectableItemBackground"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <TextView
+        android:id="@+id/nomorSurah"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:layout_constraintDimensionRatio="1:1"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintBottom_toBottomOf="parent"
+        android:background="@drawable/ic_id_icon"
+        android:text="30"
+        android:textSize="12sp"
+        android:gravity="center"
+        android:fontFamily="@font/inter_semibold"
+        android:textColor="@color/light_night_color"/>
+
+    <TextView
+        android:id="@+id/juzKe"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="16dp"
+        android:fontFamily="@font/inter_semibold"
+        android:text="Juz 1"
+        android:textColor="@color/light_night_color"
+        android:textSize="14sp"
+        app:layout_constraintTop_toBottomOf="@id/nomorSurah"
+        app:layout_constraintStart_toEndOf="@+id/nomorSurah"
+        app:layout_constraintBottom_toTopOf="parent" />
+
+
+    <com.google.android.material.divider.MaterialDivider
+        android:layout_width="0dp"
+        android:layout_height="1dp"
+        android:layout_marginTop="5dp"
+        app:layout_constraintStart_toEndOf="@id/nomorSurah"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/nomorSurah"/>
+
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

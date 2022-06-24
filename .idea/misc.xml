@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/proyek/Tadzkiir/app/src/main/res/drawable-hdpi/sp_rectangle_radius_top_20.xml" value="0.3355" />
+        <entry key="..\:/proyek/Tadzkiir/app/src/main/res/drawable-hdpi/sp_rectangle_radius_top_20_white.xml" value="0.244" />
+        <entry key="..\:/proyek/Tadzkiir/app/src/main/res/drawable/auth_bg.xml" value="0.244" />
+        <entry key="..\:/proyek/Tadzkiir/app/src/main/res/drawable/bottom_nav_selector.xml" value="0.244" />
+        <entry key="..\:/proyek/Tadzkiir/app/src/main/res/drawable/custom_20r_rectangler.xml" value="0.3355" />
+        <entry key="..\:/proyek/Tadzkiir/app/src/main/res/drawable/custom_bg_cv_home1.xml" value="0.244" />
+        <entry key="..\:/proyek/Tadzkiir/app/src/main/res/drawable/custom_rectangle_20r.xml" value="0.3355" />
+        <entry key="..\:/proyek/Tadzkiir/app/src/main/res/drawable/ic_app_logo.xml" value="0.1815" />
+        <entry key="..\:/proyek/Tadzkiir/app/src/main/res/drawable/ic_arrow.xml" value="0.244" />
+        <entry key="..\:/proyek/Tadzkiir/app/src/main/res/drawable/ic_back.xml" value="0.1815" />
+        <entry key="..\:/proyek/Tadzkiir/app/src/main/res/drawable/ic_bottom_nav_bg.xml" value="0.232" />
+        <entry key="..\:/proyek/Tadzkiir/app/src/main/res/drawable/ic_id_icon.xml" value="0.2745" />
+        <entry key="..\:/proyek/Tadzkiir/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1425" />
+        <entry key="..\:/proyek/Tadzkiir/app/src/main/res/drawable/ic_line.xml" value="0.2085" />
+        <entry key="..\:/proyek/Tadzkiir/app/src/main/res/drawable/ic_line_pattern.xml" value="0.244" />
+        <entry key="..\:/proyek/Tadzkiir/app/src/main/res/drawable/ic_line_selected.xml" value="0.2085" />
+        <entry key="..\:/proyek/Tadzkiir/app/src/main/res/drawable/ic_location.xml" value="0.2375" />
+        <entry key="..\:/proyek/Tadzkiir/app/src/main/res/drawable/ic_logout.xml" value="0.2515" />
+        <entry key="..\:/proyek/Tadzkiir/app/src/main/res/drawable/ic_nuqtoh.xml" value="0.1815" />
+        <entry key="..\:/proyek/Tadzkiir/app/src/main/res/drawable/ic_qibla.xml" value="0.25" />
+        <entry key="..\:/proyek/Tadzkiir/app/src/main/res/drawable/ic_qibla_thumb.xml" value="0.25" />
+        <entry key="..\:/proyek/Tadzkiir/app/src/main/res/drawable/ic_qibla_track.xml" value="0.25" />
+        <entry key="..\:/proyek/Tadzkiir/app/src/main/res/drawable/ic_qiblat.xml" value="0.244" />
+        <entry key="..\:/proyek/Tadzkiir/app/src/main/res/drawable/ic_qiblat_track.xml" value="0.25" />
+        <entry key="..\:/proyek/Tadzkiir/app/src/main/res/drawable/ic_tadzkiir.xml" value="0.244" />
+        <entry key="..\:/proyek/Tadzkiir/app/src/main/res/drawable/ic_tasbih.xml" value="0.232" />
+        <entry key="..\:/proyek/Tadzkiir/app/src/main/res/drawable/ic_tasbih_icon.xml" value="0.1815" />
+        <entry key="..\:/proyek/Tadzkiir/app/src/main/res/drawable/icon_bg.xml" value="0.1425" />
+        <entry key="..\:/proyek/Tadzkiir/app/src/main/res/drawable/landingpage_shape.xml" value="0.193" />
+        <entry key="..\:/proyek/Tadzkiir/app/src/main/res/drawable/rectangle_bg.xml" value="0.223" />
+        <entry key="..\:/proyek/Tadzkiir/app/src/main/res/drawable/square_bg.xml" value="0.244" />
+        <entry key="..\:/proyek/Tadzkiir/app/src/main/res/drawable/textfield_bg.xml" value="0.223" />
+        <entry key="..\:/proyek/Tadzkiir/app/src/main/res/font/Inter.xml" value="0.26755852842809363" />
+        <entry key="..\:/proyek/Tadzkiir/app/src/main/res/font/inria_sans.xml" value="0.15" />
+        <entry key="..\:/proyek/Tadzkiir/app/src/main/res/font/inter.xml" value="0.15" />
+        <entry key="..\:/proyek/Tadzkiir/app/src/main/res/layout/activity_auth.xml" value="0.22" />
+        <entry key="..\:/proyek/Tadzkiir/app/src/main/res/layout/activity_dzikir.xml" value="0.16" />
+        <entry key="..\:/proyek/Tadzkiir/app/src/main/res/layout/activity_landing_page.xml" value="0.12" />
+        <entry key="..\:/proyek/Tadzkiir/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/proyek/Tadzkiir/app/src/main/res/layout/activity_qibla.xml" value="0.25" />
+        <entry key="..\:/proyek/Tadzkiir/app/src/main/res/layout/activity_splash_screen.xml" value="0.22" />
+        <entry key="..\:/proyek/Tadzkiir/app/src/main/res/layout/favorite_fragment.xml" value="0.16" />
+        <entry key="..\:/proyek/Tadzkiir/app/src/main/res/layout/fragment_detail_quran.xml" value="0.14" />
+        <entry key="..\:/proyek/Tadzkiir/app/src/main/res/layout/fragment_home.xml" value="0.31025641025641026" />
+        <entry key="..\:/proyek/Tadzkiir/app/src/main/res/layout/fragment_jadwal_shalat.xml" value="0.15" />
+        <entry key="..\:/proyek/Tadzkiir/app/src/main/res/layout/fragment_juz.xml" value="0.25" />
+        <entry key="..\:/proyek/Tadzkiir/app/src/main/res/layout/fragment_layout_content.xml" value="0.23770491803278687" />
+        <entry key="..\:/proyek/Tadzkiir/app/src/main/res/layout/fragment_login.xml" value="0.15" />
+        <entry key="..\:/proyek/Tadzkiir/app/src/main/res/layout/fragment_qibla.xml" value="0.23770491803278687" />
+        <entry key="..\:/proyek/Tadzkiir/app/src/main/res/layout/fragment_quran.xml" value="0.25067567567567567" />
+        <entry key="..\:/proyek/Tadzkiir/app/src/main/res/layout/fragment_register.xml" value="0.33" />
+        <entry key="..\:/proyek/Tadzkiir/app/src/main/res/layout/fragment_settings.xml" value="0.21" />
+        <entry key="..\:/proyek/Tadzkiir/app/src/main/res/layout/fragment_slider.xml" value="0.14" />
+        <entry key="..\:/proyek/Tadzkiir/app/src/main/res/layout/fragment_surah.xml" value="0.33" />
+        <entry key="..\:/proyek/Tadzkiir/app/src/main/res/layout/fragment_tes.xml" value="0.16495726495726495" />
+        <entry key="..\:/proyek/Tadzkiir/app/src/main/res/layout/home_fragment.xml" value="0.22" />
+        <entry key="..\:/proyek/Tadzkiir/app/src/main/res/layout/item_content.xml" value="0.33" />
+        <entry key="..\:/proyek/Tadzkiir/app/src/main/res/layout/item_detail_juz.xml" value="0.22" />
+        <entry key="..\:/proyek/Tadzkiir/app/src/main/res/layout/item_detail_quran.xml" value="0.2483108108108108" />
+        <entry key="..\:/proyek/Tadzkiir/app/src/main/res/layout/item_detail_surah.xml" value="0.3172295852928602" />
+        <entry key="..\:/proyek/Tadzkiir/app/src/main/res/layout/item_dzikir.xml" value="0.23770491803278687" />
+        <entry key="..\:/proyek/Tadzkiir/app/src/main/res/layout/item_favorite.xml" value="0.22" />
+        <entry key="..\:/proyek/Tadzkiir/app/src/main/res/layout/item_jadwal_shalat.xml" value="0.25" />
+        <entry key="..\:/proyek/Tadzkiir/app/src/main/res/layout/item_juz.xml" value="0.23770491803278687" />
+        <entry key="..\:/proyek/Tadzkiir/app/src/main/res/layout/item_menu.xml" value="0.23770491803278687" />
+        <entry key="..\:/proyek/Tadzkiir/app/src/main/res/layout/item_menu_home.xml" value="0.12" />
+        <entry key="..\:/proyek/Tadzkiir/app/src/main/res/layout/item_quran.xml" value="0.12" />
+        <entry key="..\:/proyek/Tadzkiir/app/src/main/res/layout/item_surah.xml" value="0.25" />
+        <entry key="..\:/proyek/Tadzkiir/app/src/main/res/layout/layout_content.xml" value="0.23770491803278687" />
+        <entry key="..\:/proyek/Tadzkiir/app/src/main/res/layout/quran_fragment.xml" value="0.16" />
+        <entry key="..\:/proyek/Tadzkiir/app/src/main/res/layout/shimmer_place_holder_item_landing_page.xml" value="0.1" />
+        <entry key="..\:/proyek/Tadzkiir/app/src/main/res/layout/shimmer_placeholder_item_dzikir.xml" value="0.25" />
+        <entry key="..\:/proyek/Tadzkiir/app/src/main/res/layout/shimmer_placeholder_item_jadwal_shalat.xml" value="0.2" />
+        <entry key="..\:/proyek/Tadzkiir/app/src/main/res/layout/shimmer_placeholder_item_menu_dzikir.xml" value="0.12364864864864865" />
+        <entry key="..\:/proyek/Tadzkiir/app/src/main/res/layout/shimmer_placeholder_item_menu_home.xml" value="0.14" />
+        <entry key="..\:/proyek/Tadzkiir/app/src/main/res/layout/shimmer_placeholder_item_menu_home1.xml" value="0.1472972972972973" />
+        <entry key="..\:/proyek/Tadzkiir/app/src/main/res/layout/shimmer_placeholder_item_menu_home2.xml" value="0.18" />
+        <entry key="..\:/proyek/Tadzkiir/app/src/main/res/layout/tes.xml" value="0.21" />
+        <entry key="..\:/proyek/Tadzkiir/app/src/main/res/menu/bottom_nav_menu.xml" value="0.3170940170940171" />
+        <entry key="..\:/proyek/Tadzkiir/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.1425" />
+        <entry key="..\:/proyek/Tadzkiir/app/src/main/res/xml/network_security_config.xml" value="0.15033783783783783" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

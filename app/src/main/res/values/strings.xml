@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">Tadzkiir</string>
+    <string name="tadzkiir">Tadzkiir</string>
+    <string name="home">Home</string>
+    <string name="favorite">Favorite</string>
+    <string name="quran">Quran</string>
+    <string name="qiblat">Qiblat</string>
+    <string name="settings">Settings</string>
+    <string name="login">Login</string>
+    <string name="surah">Surah</string>
+    <string name="juz">Juz</string>
+    <string name="registrasi">Registrasi</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="buat_akun">Buat Akun</string>
+    <string name="sudahkah_anda_berdzikir_hari_ini">Sudahkah\nanda\nberdzikir hari\nini?</string>
+    <string name="anda_belum_nmemasukan_nfavorit">Anda belum\nmemasukan\nfavorit</string>
+    <string name="al_qur_an">Al-Qur’an</string>
+    <string name="tidak_ada_koneksi">Tidak ada koneksi internet</string>
+    <string name="juzke">Juz %1$s</string>
+    <string name="reset_counter">Reset\nCounter</string>
+    <string name="jadwal_shalat">Jadwal Shalat</string>
+    <string name="qiblat_compass">Qiblat Compass</string>
+    <string name="email_address">Email Address</string>
+    <string name="password">Password</string>
+    <string name="masuk">Masuk</string>
+    <string name="location">%1$s, %2$s</string>
+    <string name="register">Register</string>
+    <string name="nama">Nama</string>
+    <string name="konfirmasi_password">Konfirmasi Password</string>
+    <string name="arg_ayat">%1$s Ayat</string>
+    <string name="arg_arti">%1$s.%2$s</string>
+    <string name="dialog_location_title">Access GPS</string>
+    <string name="dialog_location_explanation">Untuk menggunakan fitur jadwal shalat, aktifkan GPS.</string>
+    <string name="tampilkan_latin">Tampilkan Latin</string>
+    <string name="menampilkan_bacaan_arab_dalam_tulisan_latin">Menampilkan bacaan arab dalam tulisan latin</string>
+    <string name="tampilkan_artinya">Tampilkan Artinya</string>
+    <string name="menampilkan_text_arti_dalam_bahasa_indonesia">Menampilkan text arti dalam Bahasa Indonesia</string>
+    <string name="setelan">Setelan</string>
+    <string name="temukan_lokasi">Temukan Lokasi</string>
+    <string name="shubuh">Shubuh</string>
+    <string name="dzuhur">Dzuhur</string>
+    <string name="ashar">Ashar</string>
+    <string name="maghrib">Maghrib</string>
+    <string name="isya">Isya</string>
+    <string name="tv_welcome">Ahlan Wa Sahlan,\n%1$s !</string>
+    <string name="syuruq">Syuruq</string>
+    <string name="long_1_s_lat_2_s">long: %1$s , lat: %2$s</string>
+
+</resources>
