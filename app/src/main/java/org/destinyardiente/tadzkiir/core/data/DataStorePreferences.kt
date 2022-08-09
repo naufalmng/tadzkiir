@@ -1,4 +1,4 @@
-package org.destinyardiente.tadzkiir.core.data
+    package org.destinyardiente.tadzkiir.core.data
 
 import android.content.Context
 import androidx.datastore.core.DataStore
@@ -151,7 +151,6 @@ class DataStorePreferences(preferencesDataStore: DataStore<Preferences>) {
                 maghrib = pref[maghrib] ?: "",
                 isha = pref[isha] ?: "",
             )
-
         }
 
     val ltsPreferenceFlow: Flow<Int?> = preferencesDataStore.data
